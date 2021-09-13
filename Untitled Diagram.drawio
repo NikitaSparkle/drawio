@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T07:01:50.943Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="kVLZ0xGkLi6SCa0H5IU7" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-13T07:06:55.947Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="HfezKsKf378acG7S3325" version="15.0.6" type="github">
   <diagram id="RWWzlrLUqUZTd2N9Jcue" name="Page-1">
-    <mxGraphModel dx="865" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="192000" pageHeight="108000" math="0" shadow="0">
+    <mxGraphModel dx="593" dy="308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="192000" pageHeight="108000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -179,6 +179,24 @@
             <mxPoint x="1220" y="780" as="sourcePoint" />
             <mxPoint x="580" y="780" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-67" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="20" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-68" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1965" y="320" as="targetPoint" />
+            <mxPoint x="1965" y="50" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1965" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-69" value="Гуглим как купить домен" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="60" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-70" value="Гугл говорит нам как купить домен" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="100" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
