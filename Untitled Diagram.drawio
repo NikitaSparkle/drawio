@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T07:13:43.102Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="LWas9oo-FKAQRlUiI-0A" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-13T07:18:24.773Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="IU0_1qR2a1B0ptcS2nIz" version="15.0.6" type="github">
   <diagram id="RWWzlrLUqUZTd2N9Jcue" name="Page-1">
     <mxGraphModel dx="716" dy="372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="192000" pageHeight="108000" math="0" shadow="0">
       <root>
@@ -185,7 +185,7 @@
         </mxCell>
         <mxCell id="69hNL4aNgv2TUrD7TsJn-68" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1960" y="430" as="targetPoint" />
+            <mxPoint x="1960" y="650" as="targetPoint" />
             <mxPoint x="1965" y="50" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="1965" y="110" />
@@ -207,10 +207,10 @@
         <mxCell id="69hNL4aNgv2TUrD7TsJn-72" value="Сайт загружен" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1910" y="190" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="69hNL4aNgv2TUrD7TsJn-73" value="Вводим имя домена в специальном поле на сайте для ввода домена" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-73" value="Вводим имя сайта в специальном поле на сайте для ввода имени" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1970" y="240" width="190" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="69hNL4aNgv2TUrD7TsJn-74" value="Сайт загружен" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-74" value="Имя введено" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1910" y="280" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="69hNL4aNgv2TUrD7TsJn-75" value="Сайт не загружен" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -231,6 +231,30 @@
         </mxCell>
         <mxCell id="69hNL4aNgv2TUrD7TsJn-79" value="Повторяем попытку" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2490" y="160" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-80" value="Тыкаем кнопку рядом со строкой поиска" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="340" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-81" value="Получаем результат поиска" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="380" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-82" value="Выбираем домен для имени" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="440" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-83" value="Домен выбран" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="470" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-84" value="Покупаем домен" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="530" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-85" value="Домен куплен" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="550" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-86" value="Радуемся" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="600" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-87" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="1945" y="650" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
