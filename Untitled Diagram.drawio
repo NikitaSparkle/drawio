@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T08:15:02.767Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="oAiOeB9Nu8W0X62t2vs1" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-13T08:17:25.311Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="zurAlrk6mggrEM6m31-m" version="15.0.6" type="github">
   <diagram id="RWWzlrLUqUZTd2N9Jcue" name="Page-1">
     <mxGraphModel dx="494" dy="257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="192000" pageHeight="108000" math="0" shadow="0">
       <root>
@@ -265,7 +265,7 @@
         <mxCell id="69hNL4aNgv2TUrD7TsJn-90" value="Объект съемки" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="1005" y="965" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="69hNL4aNgv2TUrD7TsJn-91" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-91" value="" style="endArrow=none;html=1;startArrow=none;" edge="1" parent="1" source="69hNL4aNgv2TUrD7TsJn-101">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="1300" as="sourcePoint" />
             <mxPoint x="560" y="1040" as="targetPoint" />
@@ -299,6 +299,24 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="1070" as="sourcePoint" />
             <mxPoint x="805" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-99" value="Включение камеры" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1050" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-101" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="1110" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-102" value="" style="endArrow=none;html=1;" edge="1" parent="1" target="69hNL4aNgv2TUrD7TsJn-101">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="1300" as="sourcePoint" />
+            <mxPoint x="560" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-100" value="Камера включена" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="1110" as="sourcePoint" />
+            <mxPoint x="560" y="1110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
