@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T06:41:54.357Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="SEh5DygCUw3yKvzZ9qht" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-13T06:43:13.617Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="qNf_4OUBORZQqFxgNS6P" version="15.0.6" type="github">
   <diagram id="RWWzlrLUqUZTd2N9Jcue" name="Page-1">
     <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="192000" pageHeight="108000" math="0" shadow="0">
       <root>
@@ -46,8 +46,20 @@
         <mxCell id="69hNL4aNgv2TUrD7TsJn-17" value="Домашка найдена" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="512.5" y="200" width="85" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="69hNL4aNgv2TUrD7TsJn-18" target="69hNL4aNgv2TUrD7TsJn-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="69hNL4aNgv2TUrD7TsJn-18" value="Домашка не найдена" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="170" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-19" value="Найти нужную домаашку" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="260" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-20" value="Все хорошо" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="170" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-22" value="Забить и радоваться" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="160" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
