@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T08:19:55.729Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="VYe7jCigdyx60iJ2k2rs" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-13T08:29:41.219Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="6KDSZX3o8NSqlIxl8pl8" version="15.0.6" type="github">
   <diagram id="RWWzlrLUqUZTd2N9Jcue" name="Page-1">
-    <mxGraphModel dx="415" dy="216" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="192000" pageHeight="108000" math="0" shadow="0">
+    <mxGraphModel dx="865" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="192000" pageHeight="108000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -307,7 +307,7 @@
         <mxCell id="69hNL4aNgv2TUrD7TsJn-101" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="555" y="1080" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="69hNL4aNgv2TUrD7TsJn-102" value="" style="endArrow=none;html=1;" edge="1" parent="1" target="69hNL4aNgv2TUrD7TsJn-101">
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-102" value="" style="endArrow=none;html=1;startArrow=none;" edge="1" parent="1" source="69hNL4aNgv2TUrD7TsJn-113" target="69hNL4aNgv2TUrD7TsJn-101">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="1300" as="sourcePoint" />
             <mxPoint x="560" y="1040" as="targetPoint" />
@@ -332,12 +332,83 @@
           <mxGeometry x="615" y="1089.43" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="69hNL4aNgv2TUrD7TsJn-106" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="555" y="1149.43" width="10" height="20" as="geometry" />
+          <mxGeometry x="555" y="1149.43" width="10" height="40.57" as="geometry" />
         </mxCell>
         <mxCell id="69hNL4aNgv2TUrD7TsJn-107" value="Камера настроена" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="800" y="1149.43" as="sourcePoint" />
             <mxPoint x="560" y="1149.43" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-109" value="" style="endArrow=classic;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="557.5" y="1189.43" as="sourcePoint" />
+            <mxPoint x="802.5" y="1189.43" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-110" value="Выбор ракурса" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="617.5" y="1169.43" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-111" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1190" width="10" height="40.57" as="geometry" />
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-113" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="1230.57" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-114" value="" style="endArrow=none;html=1;" edge="1" parent="1" target="69hNL4aNgv2TUrD7TsJn-113">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="1300" as="sourcePoint" />
+            <mxPoint x="560" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-116" value="Нажимаем на кнопку снимка" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="615" y="1240.57" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-112" value="Ракурс выбран" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="1230.5700000000002" as="sourcePoint" />
+            <mxPoint x="560" y="1230.5700000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-117" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1240.57" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-115" value="" style="endArrow=classic;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="557.5" y="1240.57" as="sourcePoint" />
+            <mxPoint x="805" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-119" value="Фотоаппарат делает снимок" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="875" y="1225.57" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-120" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="1250.57" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-118" value="" style="endArrow=classic;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="1250.57" as="sourcePoint" />
+            <mxPoint x="1060" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-122" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1260.57" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-121" value="Фотоаппарат сохраняет снимок" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
+          <mxGeometry x="-0.0625" y="10" relative="1" as="geometry">
+            <mxPoint x="1060" y="1260.0000000000002" as="sourcePoint" />
+            <mxPoint x="804" y="1260" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-124" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="1270.57" width="10" height="22.43" as="geometry" />
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-123" value="Отображение снимка на экране" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
+          <mxGeometry x="0.0324" y="9" relative="1" as="geometry">
+            <mxPoint x="808" y="1270.5700000000002" as="sourcePoint" />
+            <mxPoint x="560" y="1271" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
