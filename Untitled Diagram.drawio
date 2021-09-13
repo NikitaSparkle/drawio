@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T06:57:01.843Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="HGZWVpF7lqCN5NLGCvzN" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-13T06:59:33.952Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="9yzsoCYvd7KjFnTwhEVj" version="15.0.6" type="github">
   <diagram id="RWWzlrLUqUZTd2N9Jcue" name="Page-1">
-    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="192000" pageHeight="108000" math="0" shadow="0">
+    <mxGraphModel dx="167" dy="87" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="192000" pageHeight="108000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,7 +45,7 @@
         </mxCell>
         <mxCell id="69hNL4aNgv2TUrD7TsJn-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="69hNL4aNgv2TUrD7TsJn-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="910" y="190" as="targetPoint" />
+            <mxPoint x="1220" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="69hNL4aNgv2TUrD7TsJn-18" value="Домашка не найдена" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -114,7 +114,7 @@
         </mxCell>
         <mxCell id="69hNL4aNgv2TUrD7TsJn-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="69hNL4aNgv2TUrD7TsJn-41">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="900" y="520" as="targetPoint" />
+            <mxPoint x="1220" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="69hNL4aNgv2TUrD7TsJn-41" value="Домашка не сделана" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -170,6 +170,18 @@
         </mxCell>
         <mxCell id="69hNL4aNgv2TUrD7TsJn-64" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="540" y="760" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-65" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1220" y="770" as="sourcePoint" />
+            <mxPoint x="1220" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-66" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="69hNL4aNgv2TUrD7TsJn-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1220" y="775" as="sourcePoint" />
+            <mxPoint x="1020" y="520" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
