@@ -1,1 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T06:15:29.185Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" version="15.0.6" etag="QGXxv2jCVU5o8Sl45y2Q" type="github"><diagram id="RWWzlrLUqUZTd2N9Jcue">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-13T06:37:20.715Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="UNgChVdqlF087OgoUzzR" version="15.0.6" type="github">
+  <diagram id="RWWzlrLUqUZTd2N9Jcue" name="Page-1">
+    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="192000" pageHeight="108000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-2" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="540" y="20" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-3" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="69hNL4aNgv2TUrD7TsJn-2" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="555" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-4" value="Скачиваем домашку" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="30" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-5" value="Домашка скачана" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="752.5" y="70" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-8" value="Перейти в раздел &quot;Домашнее задание&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="50" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="69hNL4aNgv2TUrD7TsJn-9" value="Страница ДЗ загружена" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="512.5" y="80" width="85" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
