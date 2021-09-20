@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2021-09-20T07:11:48.522Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" version="15.2.4" etag="nHungEnJF1UqkJI3owxf" type="github"><diagram id="8IGxpvWCVj24wyZ9nwmn">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-20T07:14:21.723Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="diH4lOlUMwHDvzdsRD83" version="15.2.4" type="github">
+  <diagram id="8IGxpvWCVj24wyZ9nwmn" name="Page-1">
+    <mxGraphModel dx="981" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vK_GbAC3fImYsfhG7WWW-1" value="интернет магазин + мобильные приложения для продажи запчастей на крузаки" style="rounded=0;strokeColor=#6c8ebf;whiteSpace=wrap;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="155" width="540" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vK_GbAC3fImYsfhG7WWW-2" value="Web" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vK_GbAC3fImYsfhG7WWW-3" value="" style="endArrow=classic;html=1;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vK_GbAC3fImYsfhG7WWW-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="180" as="sourcePoint" />
+            <mxPoint x="100" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vK_GbAC3fImYsfhG7WWW-4" value="Internet Market" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="40" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
