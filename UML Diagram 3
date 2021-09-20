@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-20T07:42:48.849Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="nIH6sXbA_TawN-q9FX6R" version="15.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-20T07:44:09.648Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="5guIHuC8sS0h1fTi4qb3" version="15.2.4" type="github">
   <diagram id="8IGxpvWCVj24wyZ9nwmn" name="Page-1">
-    <mxGraphModel dx="981" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="813" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -374,10 +374,25 @@
           <mxGeometry x="620.0000000000001" y="610" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vK_GbAC3fImYsfhG7WWW-110" value="Кабинет" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="620.0000000000001" y="650" width="80" height="20" as="geometry" />
+          <mxGeometry x="700.0000000000001" y="650" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vK_GbAC3fImYsfhG7WWW-111" value="Корзина" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="620.0000000000001" y="690" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vK_GbAC3fImYsfhG7WWW-112" value="Рассылки" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="780" y="630" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vK_GbAC3fImYsfhG7WWW-113" value="Новости" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="780.69" y="670" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vK_GbAC3fImYsfhG7WWW-114" value="Скидки" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="780.69" y="710" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vK_GbAC3fImYsfhG7WWW-115" value="БД" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="860" y="650" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vK_GbAC3fImYsfhG7WWW-116" value="Тесты" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="940" y="610" width="80.88" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
