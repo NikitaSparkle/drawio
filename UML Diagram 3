@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-20T07:39:15.455Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="PgOYJIX9n2MHiwWbNe7j" version="15.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-20T07:41:27.166Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="HI4Yhu188rgo9Ha33qmv" version="15.2.4" type="github">
   <diagram id="8IGxpvWCVj24wyZ9nwmn" name="Page-1">
-    <mxGraphModel dx="1185" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,7 +139,7 @@
         <mxCell id="vK_GbAC3fImYsfhG7WWW-31" value="02/2022" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="580" y="320" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vK_GbAC3fImYsfhG7WWW-35" value="iPhone" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="vK_GbAC3fImYsfhG7WWW-35" value="iPhone" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#F7F7F7;strokeColor=default;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="240" y="410" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vK_GbAC3fImYsfhG7WWW-36" value="Android" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#ffffff;strokeColor=#2D7600;fillColor=#60a917;" vertex="1" parent="1">
@@ -357,6 +357,12 @@
         </mxCell>
         <mxCell id="vK_GbAC3fImYsfhG7WWW-104" value="11/2021 4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="950.69" y="580" width="61.38" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vK_GbAC3fImYsfhG7WWW-105" value="Разработка дизайна интерфейса под iPhone" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="380" y="620" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vK_GbAC3fImYsfhG7WWW-106" value="iPhone" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=default;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="660" y="550" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
