@@ -1,11 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2021-09-22T13:46:24.038Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="iOnDVVRhk6NmSblsEuO_" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-22T13:51:00.662Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="IQG5agFHlRWbmqA77SXR" version="15.2.9" type="github">
   <diagram id="6N-o1n5KhCWXECiF2x_4" name="Page-1">
     <mxGraphModel dx="981" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="y_acMFRZyyMRTwslUWqO-1" value="DerBank" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1700EA;strokeColor=#b85450;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="270" width="310" height="60" as="geometry" />
+          <mxGeometry width="850" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y_acMFRZyyMRTwslUWqO-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;" edge="1" parent="1" source="y_acMFRZyyMRTwslUWqO-2" target="y_acMFRZyyMRTwslUWqO-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y_acMFRZyyMRTwslUWqO-2" value="Smartphone App" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y_acMFRZyyMRTwslUWqO-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;" edge="1" parent="1" source="y_acMFRZyyMRTwslUWqO-3" target="y_acMFRZyyMRTwslUWqO-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y_acMFRZyyMRTwslUWqO-3" value="Web" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#FFFFFF;fillColor=#1700EA;" vertex="1" parent="1">
+          <mxGeometry x="530" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y_acMFRZyyMRTwslUWqO-4" value="DerBank.de" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#FFFFFF;fillColor=#1700EA;" vertex="1" parent="1">
+          <mxGeometry x="530" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y_acMFRZyyMRTwslUWqO-6" value="Android" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3FE602;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="170" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y_acMFRZyyMRTwslUWqO-8" value="iPhone" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#FFFFFF;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="350" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y_acMFRZyyMRTwslUWqO-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="y_acMFRZyyMRTwslUWqO-2" target="y_acMFRZyyMRTwslUWqO-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340.0344827586207" y="150" as="sourcePoint" />
+            <mxPoint x="240.0344827586207" y="190" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
