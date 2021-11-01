@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T15:56:16.494Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="-KUeg1h6edRyZ7OXe7kc" version="15.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-01T15:57:04.974Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="pwWGcJqIF4Z38GUohVHk" version="15.6.3" type="github">
   <diagram id="Y1fExy8vnwSqJnUmQWnV" name="Page-1">
-    <mxGraphModel dx="159" dy="84" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="677" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -196,16 +196,16 @@
             <mxPoint x="880" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="65xgxMTyl8cGXXBZ1EXo-47" value="Add Category" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="65xgxMTyl8cGXXBZ1EXo-47" value="Add Label" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1130" y="380" width="80" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="65xgxMTyl8cGXXBZ1EXo-48" value="Add Category" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="65xgxMTyl8cGXXBZ1EXo-48" value="Add Label" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1215" y="430" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="65xgxMTyl8cGXXBZ1EXo-49" value="Edit Category" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="65xgxMTyl8cGXXBZ1EXo-49" value="Edit Label" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1325" y="430" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="65xgxMTyl8cGXXBZ1EXo-50" value="Delete Category" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="65xgxMTyl8cGXXBZ1EXo-50" value="Delete Label" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1435" y="430" width="89" height="30" as="geometry" />
         </mxCell>
         <mxCell id="65xgxMTyl8cGXXBZ1EXo-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="65xgxMTyl8cGXXBZ1EXo-48">
