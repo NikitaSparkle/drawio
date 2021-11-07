@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-07T12:24:13.820Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="nDOcTKGvJn_Dyq-p_xsH" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-07T12:25:51.889Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="gGq2QthuJnfSfTCTkyeZ" version="15.7.0" type="github">
   <diagram id="uhnbofGePxYy8V5QOXv9" name="Page-1">
-    <mxGraphModel dx="395" dy="209" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="474" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,6 +51,21 @@
             <mxPoint x="370" y="390" as="sourcePoint" />
             <mxPoint x="380" y="330" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="P5AheEFws7vUQgOdPLXE-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="340" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="P5AheEFws7vUQgOdPLXE-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="385" y="340" as="sourcePoint" />
+            <mxPoint x="580" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P5AheEFws7vUQgOdPLXE-16" value="Change temperature" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="225" y="320" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P5AheEFws7vUQgOdPLXE-17" value="Change temperature" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="330" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
