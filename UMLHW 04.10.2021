@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-07T12:20:08.514Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="0sKKbl_3CeKLTMOTQ2X2" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-07T12:22:39.073Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="gkm29wTRa4ivnyYlPh7f" version="15.7.0" type="github">
   <diagram id="uhnbofGePxYy8V5QOXv9" name="Page-1">
     <mxGraphModel dx="677" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,13 +7,13 @@
         <mxCell id="P5AheEFws7vUQgOdPLXE-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="240" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P5AheEFws7vUQgOdPLXE-2" value="Управление кандером с пульта" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P5AheEFws7vUQgOdPLXE-2" value="Air conditioner control using the remote control" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="150" width="430" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P5AheEFws7vUQgOdPLXE-3" value="Пульт" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P5AheEFws7vUQgOdPLXE-3" value="Remote Control" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="240" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="P5AheEFws7vUQgOdPLXE-5" value="Пульт" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P5AheEFws7vUQgOdPLXE-5" value="Air conditioner" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="240" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P5AheEFws7vUQgOdPLXE-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
