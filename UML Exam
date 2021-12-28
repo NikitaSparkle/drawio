@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-28T11:21:00.374Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="4hwRxpD4p1z0O3oOO0f0" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-28T11:24:57.333Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="1TvrBSZIGsLGaA9ATj8c" version="16.1.0" type="github">
   <diagram id="X57PgAOiAVOMVULIcLFV" name="Page-1">
-    <mxGraphModel dx="402" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="465" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,7 +15,7 @@
         </mxCell>
         <mxCell id="oAaGoaCQUVstjXlkbqZB-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;startArrow=none;" edge="1" source="oAaGoaCQUVstjXlkbqZB-4" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="145" y="600" as="targetPoint" />
+            <mxPoint x="145" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oAaGoaCQUVstjXlkbqZB-3" value="Заказ Мака из глово" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -101,6 +101,57 @@
         </mxCell>
         <mxCell id="oAaGoaCQUVstjXlkbqZB-26" value="Забить, потому что это проблемы Глово" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="390" y="270" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oAaGoaCQUVstjXlkbqZB-27" value="&lt;span&gt;Выбрать товар&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="160" y="580" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oAaGoaCQUVstjXlkbqZB-28" value="Товар выбран" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontColor=#FFFFFF;fillColor=#4A4A4A;" vertex="1" parent="1">
+          <mxGeometry x="100" y="640" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oAaGoaCQUVstjXlkbqZB-29" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="145" y="620" as="sourcePoint" />
+            <mxPoint x="280" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oAaGoaCQUVstjXlkbqZB-30" value="Товар не выбран" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontColor=#FFFFFF;fillColor=#4A4A4A;" vertex="1" parent="1">
+          <mxGeometry x="280" y="600" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oAaGoaCQUVstjXlkbqZB-31" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oAaGoaCQUVstjXlkbqZB-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="650" as="sourcePoint" />
+            <mxPoint x="400" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oAaGoaCQUVstjXlkbqZB-32" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="600" as="sourcePoint" />
+            <mxPoint x="400" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oAaGoaCQUVstjXlkbqZB-33" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="620" as="sourcePoint" />
+            <mxPoint x="400" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oAaGoaCQUVstjXlkbqZB-34" value="&lt;span&gt;Товар не выбран по причине ошибки сервиса&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="400" y="570" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oAaGoaCQUVstjXlkbqZB-35" value="&lt;span&gt;Товар не выбран по причине ошибки пользователя&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="400" y="650" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oAaGoaCQUVstjXlkbqZB-36" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="640" as="sourcePoint" />
+            <mxPoint x="600" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oAaGoaCQUVstjXlkbqZB-37" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="600" as="sourcePoint" />
+            <mxPoint x="600" y="600" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
