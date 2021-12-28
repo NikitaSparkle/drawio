@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-28T11:05:24.704Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Qe010aoOeTQX585t6XYI" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-28T11:12:44.021Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="3zp9wtPIoRVD_4Zce3J-" version="16.1.0" type="github">
   <diagram id="X57PgAOiAVOMVULIcLFV" name="Page-1">
-    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="305" dy="365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,6 +9,35 @@
         </mxCell>
         <mxCell id="1HpTxZZG0olLMr_rEzWe-3" value="Status Diagram &lt;b&gt;GLOVO&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFFFF;fillColor=#4A4A4A;gradientColor=none;gradientDirection=west;align=center;" parent="1" vertex="1">
           <mxGeometry x="70" y="70" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oAaGoaCQUVstjXlkbqZB-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="130" y="130" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oAaGoaCQUVstjXlkbqZB-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="oAaGoaCQUVstjXlkbqZB-1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="145" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oAaGoaCQUVstjXlkbqZB-3" value="Заказ Мака из глово" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="130" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oAaGoaCQUVstjXlkbqZB-4" value="Главная страница загружена" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#4A4A4A;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="100" y="200" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oAaGoaCQUVstjXlkbqZB-5" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="145" y="280" as="sourcePoint" />
+            <mxPoint x="280" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oAaGoaCQUVstjXlkbqZB-6" value="Перейти в раздел &quot;Еда&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="160" y="250" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oAaGoaCQUVstjXlkbqZB-8" value="Страница &quot;Еда&quot; Загружена" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontColor=#FFFFFF;fillColor=#4A4A4A;" vertex="1" parent="1">
+          <mxGeometry x="100" y="320" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oAaGoaCQUVstjXlkbqZB-9" value="Страница &quot;Еда&quot; не загружена" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontColor=#FFFFFF;fillColor=#4A4A4A;" vertex="1" parent="1">
+          <mxGeometry x="280" y="260" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
